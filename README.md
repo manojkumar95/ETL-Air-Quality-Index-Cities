@@ -1,4 +1,4 @@
-# DAP Project - Team E
+# Database and Analytics - ETL, Ingestion and Visualization
 # Analysis Of Influence Of Weather And Population On Air Quality Of Cities
 
 ## Introduction
